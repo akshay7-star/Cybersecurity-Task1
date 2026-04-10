@@ -1,1 +1,55 @@
+## CIA Triad
 
+- Confidentiality: Ensures that data is accessible only to authorized users.
+- Integrity: Ensures that data is not altered or tampered with.
+- Availability: Ensures that systems and data are available when needed.
+
+## Common Cyber Attacks
+
+- Phishing: Trick users into revealing sensitive information.
+- Malware: Malicious software like viruses and trojans.
+- DDoS: Overloading a server with traffic to make it unavailable.
+- SQL Injection: Injecting malicious SQL queries into databases.
+- Brute Force: Trying many passwords to gain access.
+- Ransomware: Locking data and demanding payment.
+
+## OSI Model
+
+1. Physical – Hardware transmission
+2. Data Link – MAC addressing
+3. Network – IP addressing
+4. Transport – TCP/UDP
+5. Session – Connection management
+6. Presentation – Data formatting
+7. Application – User interface (HTTP, FTP)
+
+## Cryptography Basics
+
+- Encryption: Converting data into a secure format.
+- Decryption: Converting encrypted data back to original.
+
+Types:
+- Symmetric Encryption: Same key (AES)
+- Asymmetric Encryption: Public & Private keys (RSA)
+
+Hashing:
+- MD5
+- SHA-256
+
+## Linux Commands
+
+- pwd: Show current directory
+- ls: List files
+- cd: Change directory
+- mkdir: Create directory
+- rm: Remove files
+- chmod: Change permissions
+- ifconfig: Show IP address
+- ping: Check connectivity
+
+## Tools Learned
+
+- Nmap: Network scanning
+- Wireshark: Packet analysis
+- Burp Suite: Web testing
+- Netcat: Network debugging
